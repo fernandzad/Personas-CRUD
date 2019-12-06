@@ -1,0 +1,27 @@
+{
+  "name": "personas",
+  "version": "1.0.0",
+  "description": "This project implements the different technologies learned in NodeJS like MongoDB, Mongoose, Jest, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesusfer2575/Personas-CRUD.git"
+  },
+  "keywords": [
+    "crud",
+    "unit-test",
+    "web"
+  ],
+  "author": "Ad Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesusfer2575/Personas-CRUD/issues"
+  },
+  "homepage": "https://github.com/Jesusfer2575/Personas-CRUD#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
